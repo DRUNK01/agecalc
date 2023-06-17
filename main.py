@@ -1,0 +1,6 @@
+name = input("What's your name ? ")
+print("hello " + name)
+print("I am a age calculator")
+age = input("Enter your birthday :")
+sum = 2023 - int(age)
+print("Your age is : " + str(sum))
